@@ -11,7 +11,9 @@ export const PROFILE_DATA = {
   englishRole: "Super Individual Builder",
   contact: {
     wx: "Shensi-ST"
-  }
+  },
+  // Generates a logo-style avatar with the character "思" (Si) in Cyan on Slate background
+  avatar: "https://ui-avatars.com/api/?name=思&background=0f172a&color=22d3ee&size=512&length=1&font-size=0.5&bold=true&rounded=true"
 };
 
 export const STATS: StatItem[] = [
